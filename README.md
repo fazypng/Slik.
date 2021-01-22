@@ -1,2 +1,2 @@
 # Slik.
-An app for for barbers 
+A Hair cut App
